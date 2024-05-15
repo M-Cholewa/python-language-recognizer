@@ -1,0 +1,5 @@
+*.bin
+*.ftz
+*.pdf
+fasttext/
+__pycache__/
